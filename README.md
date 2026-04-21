@@ -1,17 +1,29 @@
 # Hi, I'm Manil Jayswal
 
-I work on real-world implementations of **W3C Verifiable Credentials**, **Decentralized Identifiers (DID)**, and **JSON-LD** using Python and blockchain integrations.
+I work on real-world backend implementations aligned with W3C standards, focusing on Verifiable Credentials (VC), Decentralized Identifiers (DID), and JSON-LD using Python and blockchain integrations.
 
-## Current Focus
-- VC Issuance & Verification flows
-- DID method integrations
-- Credential Status / Revocation (Status List 2021)
-- JSON-LD processing for credentials
-- Backend architecture with FastAPI
+## Standards Focus
+Actively learning and implementing specifications around:
+- Verifiable Credentials Data Model
+- Decentralized Identifiers (DID)
+- JSON-LD for linked data credentials
+- Credential Status and Revocation (Status List 2021)
 
-## Standards Involvement
-- Member — Credentials Community Group (W3C)
-- Member — JSON-LD Community Group (W3C)
+## What I’m Building
+- VC issuance and verification services using FastAPI
+- DID method integrations with blockchain networks
+- Credential lifecycle management (issue, verify, revoke)
+- Dockerized backend infrastructure with Redis and Celery
+
+## Learning From W3C Discussions
+Following discussions and issues in W3C repositories related to VC, DID, and JSON-LD to better align real-world implementations with evolving standards.
+
+## W3C Involvement
+Member — Credentials Community Group (W3C)  
+Member — JSON-LD Community Group (W3C)
+
+## Architecture Interests
+Backend architecture • API design • Identity systems • Distributed systems • Standards compliance
 
 ## Tech Stack
 Python • FastAPI • Redis • Docker • Blockchain • JSON-LD • REST APIs
