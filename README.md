@@ -19,8 +19,8 @@ Actively learning and implementing specifications around:
 Following discussions and issues in W3C repositories related to VC, DID, and JSON-LD to better align real-world implementations with evolving standards.
 
 ## W3C Involvement
-Member — Credentials Community Group (W3C)  
-Member — JSON-LD Community Group (W3C)
+Participant — Credentials Community Group (W3C)  
+Participant — JSON-LD Community Group (W3C)
 
 ## Architecture Interests
 Backend architecture • API design • Identity systems • Distributed systems • Standards compliance
